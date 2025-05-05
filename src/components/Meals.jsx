@@ -5,7 +5,7 @@ export default function Meals() {
   const [meals, setMeals] = useState([]);
   const { addItem } = useContext(CartContext);
   useEffect(() => {
-    fetch("/meals.json")
+    fetch("./meals.json")
       .then((res) => res.json())
       .then((data) => setMeals(data))
       .catch((err) => console.error("Error fetching meals:", err));

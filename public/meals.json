@@ -1,0 +1,41 @@
+[
+  {
+    "id": "m1",
+    "name": "Mac & Cheese",
+    "price": "8.99",
+    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+    "image": "https://images.unsplash.com/photo-1707870678076-40ba56a65ece?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWFjJTIwYW5kJTIwY2hlZXNlfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "m2",
+    "name": "Vegan Buddha Bowl",
+    "price": "10.50",
+    "description": "A colorful bowl of quinoa, roasted veggies, chickpeas, and tahini dressing. Nutritious and filling.",
+    "image": "https://images.unsplash.com/photo-1614648692330-eb129aeb6880?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+  {
+    "id": "m3",
+    "name": "Spaghetti Carbonara",
+    "price": "11.25",
+    "description": "Traditional Italian pasta with creamy egg sauce, pancetta, and parmesan cheese.",
+    "image": "https://images.unsplash.com/photo-1560434019-4558f9a9e2a1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+
+
+
+  {
+    "id": "m4",
+    "name": "Beef Tacos",
+    "price": "9.75",
+    "description": "Spiced ground beef in soft tortillas with lettuce, cheese, and fresh salsa.",
+    "image": "https://plus.unsplash.com/premium_photo-1661780139424-d582ec7aa9e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmVlZiUyMHRhY29zfGVufDB8fDB8fHww"
+  },
+  {
+    "id": "m5",
+    "name": "Lemon Cheesecake",
+    "price": "6.95",
+    "description": "Rich and tangy cheesecake with a graham cracker crust and lemon zest.",
+    "image": "https://plus.unsplash.com/premium_photo-1726718415941-82a5cfb3f909?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGVtb24lMjBjaGVlc2VjYWtlfGVufDB8fDB8fHww"
+  }
+]

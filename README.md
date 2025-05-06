@@ -1,6 +1,6 @@
 # SPA Project
 
-This is a Single Page Application (SPA) built with React. The project demonstrates how to manage a shopping cart using React Context API and provides how  to add, remove, and submit orders.
+Order Food is a Single Page Application (SPA) built with React. The project demonstrates how to manage a shopping cart using React Context API and provides how  to add, remove, and submit orders.
 
 ## Features
 
@@ -8,3 +8,10 @@ This is a Single Page Application (SPA) built with React. The project demonstrat
 - **Cart Functionality**: Add meals to the cart, remove items, and update item quantities.
 - **Responsive Design**: The app is responsive and adjusts for different screen sizes.
 - **Order Submission**: Once the user adds items to the cart, they can submit an order.
+
+
+
+![App Screenshot](./src/assets/IMG_7743.jpg)
+
+
+**https://miki681.github.io/spa-project**
